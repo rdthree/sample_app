@@ -1,0 +1,30 @@
+LOG:  database system was shut down at 2012-04-27 06:07:12 EDT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2012-04-27 06:07:48 EDT
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  database "sample_app_devel" does not exist
+FATAL:  database "sample_app_test" does not exist
+FATAL:  database "sample_app_prod" does not exist
+FATAL:  database "sample_app" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  role "postgres" does not exist
+FATAL:  database "sample_app" does not exist
+FATAL:  database "sample_app" does not exist
+FATAL:  database "sample_app" does not exist
+FATAL:  database "sample_app" does not exist
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
