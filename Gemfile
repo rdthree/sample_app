@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.3'
 gem 'pg', '0.12.2'
+gem 'bootstrap-sass', '2.0.2'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -32,7 +33,7 @@ group :test do
 	gem 'rspec-rails', '2.9.0'
 	gem 'guard-spork', '0.3.2'
 	gem 'spork', '0.9.0'
-	gem 'rb-inotify', '0.8.8' 	#linux
+	#gem 'rb-inotify', '0.8.8' 	#linux (doesnt work on arch linux setup right now)
 	gem 'libnotify', '0.5.9'  	#linux
 	#gem 'rb-fchange', '0.0.5' 	#windows
 	#gem 'rb-notifu', '0.0.4' 	#windows
